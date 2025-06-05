@@ -39,6 +39,3 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/DaviSanttana/DaviSanttana/output/snake.svg" alt="Snake animation" />
-
-###
