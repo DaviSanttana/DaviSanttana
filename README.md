@@ -1,4 +1,4 @@
-##Olá 👋 Eu sou o Davi Santtana
+## Davi Santtana
 
 - 📕 Estudando JavaScript
  
