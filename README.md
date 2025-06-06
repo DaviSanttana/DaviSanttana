@@ -16,13 +16,6 @@
 <p align="left">Eu me chamo Davi Gabriel Santana, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e matemática o que me apaixonar go por essa área.</p>
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
 ###
 
 <div align="center">
