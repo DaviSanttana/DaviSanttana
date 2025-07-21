@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Eu me chamo Davi Gabriel Santana, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.Sou apaixonado por tecnologia e matemática o que me fez apaixonar por essa área.</p>
+<p align="left">Eu me chamo Davi Gabriel Santana, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e matemática o que me fez se interessar muito  por essa área.</p>
 
 ###
 ###
