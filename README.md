@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🎓Estudante de Engenharia de Software<br>• 📚 Estudando Java,SpringBoot, Docker e AWS<br>• 🎯 Foco em desenvolvimento backend<br>• 🔍Buscando estágio e oportunidades para crescer junto com profissionais experientes<br>• ⚡Curioso, dedicado e apaixonado por desafios e problemas com código</p>
+<p align="left">• 🎓Estudante de Engenharia de Software<br>• 📚 Estudando Java,SpringBoot, Docker<br>• 🎯 Foco em desenvolvimento backend<br>• 🔍Buscando estágio e oportunidades para crescer junto com profissionais experientes<br>• ⚡Curioso, dedicado e apaixonado por desafios e problemas com código</p>
 
 ###
 
