@@ -10,16 +10,14 @@
 
 ###
 
-<h2 align="left">⭐Skills</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"  />
   <img width="19" />
@@ -27,12 +25,12 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  
 </div>
 
 ###
 
-<h2 align="left">📫 Contato</h2>
+<h2 align="left"> Contatos</h2>
 
 ###
 
@@ -50,6 +48,6 @@
 
 ###
 
-<h6 align="center">Há  paz em não saber..</h6>
+<h4 align="left">Quando tudo der certo , queime o barco..</h4>
 
 ###
